@@ -11,4 +11,4 @@ WORKDIR /opt/xmr-proxy
 
 CMD ["python", "xmr-proxy.py"]
 
-EXPOSE 8080
+EXPOSE 3333
